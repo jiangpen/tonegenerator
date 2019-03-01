@@ -1,2 +1,2 @@
 # tonegenerator
-to generate different kind of tone
+to generate ambulance syle tone
